@@ -5,4 +5,4 @@
 5. **Latest projects:** I haven't had any serious projects yet, but I hope that I will soon implement a project like "Google" :smile:
 6. I successfully completed the course website development with HTML, CSS & JavaScript in HTMLAcademy [htmlacademy](https://htmlacademy.ru/profile/id1352383) and do tasks on [codewars](https://www.codewars.com/users/fibonacci11235).
 7. I graduated from Gik College, faculty of Computer engineering and automated systems in 2006, took a basic computer science course and successfully completed a course in website development with HTML, CSS, and JavaScript.
-8. According to [training.by](https://training.by/UserProfile#!/Main/?lang=ru) my English level is *A1(Basics)*.
+8. According to [training.by](https://training.by/UserProfile#!/Main/?lang=ru) my English level is *A1(Basics)*. I am currently actively studying the language.
